@@ -179,4 +179,4 @@ a:link, a:visited, a:hover, a:active, a:focus {
 .footer .content-footer .footer-left{width: 55%;}
 .footer .content-footer .footer-right{width: 45%;float: right;}
 .footer .content-footer p{font-family: 'UTMAvo';font-size: 10px;color: #fff;line-height: 16px;margin: 0;}
-.footer .copyright{color:#fff;font-family: 'UTMAvo';font-size: 12px;margin-top: 108px;}
+.footer .copyright{color:#fff;font-family: 'UTMAvo';font-size: 12px;margin-top: 108px;text-align: right;}
