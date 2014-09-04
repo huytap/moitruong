@@ -126,11 +126,14 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .logo {
 	float: left;margin: 10px 0 0 40px;
 }
+.slide .container{
+	height: 398px;
+}
 .flexslider{
 	background: url(images/bg-slide.png) no-repeat;
 	background-color: transparent;
 	margin: 0;
-	top:-71px;
+	top:-70px;
 	border-radius: 0 0;
 }
 .thumbnail {
