@@ -33,8 +33,8 @@
     height:0;
     visibility:hidden;
 }
-.padding3 {
-    padding-top:3px;
+.padding5 {
+    padding-top:5px;
     font-size:0;
     line-height:0;
 }
@@ -139,7 +139,7 @@ p + hr {
     width: 330px;
     height:231px;
     float: left;
-    margin: 0 4px 0 0;
+    margin: 0 4px 10px 0;
 }
 .col_1_2.last, .col_2_3.last, .col_1_3.last, .col_1_4.last, .col_1_5.last, .col_3_4.last, .col_3_4 .col_1_2.last {
 border: 0;margin: 0
