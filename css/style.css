@@ -129,7 +129,8 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .flexslider{
 	background: url(images/bg-slide.png) no-repeat;
 	background-color: transparent;
-	margin: -70px 0 0;
+	margin: 0;
+	top:-71px;
 	border-radius: 0 0;
 }
 .thumbnail {
