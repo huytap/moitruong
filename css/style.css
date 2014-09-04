@@ -126,7 +126,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .logo {
 	float: left;margin: 10px 0 0 40px;
 }
-.slide .container{
+.slide{
 	height: 398px;
 }
 .flexslider{
