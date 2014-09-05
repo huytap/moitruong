@@ -16,8 +16,8 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	background: #337b2c;
 }
 .header_bg .container, .header_top .container{
-	border-left: 1px solid #edf5ee;
-	border-right: 1px solid #edf5ee;
+	border-left: 1px solid #b4cf6f;
+	border-right: 1px solid #b4cf6f;
 }
 .header_top .container{height: 180px;}
 .container {
