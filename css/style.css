@@ -174,7 +174,8 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	font-family: 'UTMAvoItalic';
 	font-style: italic;
 }
-.home-content .container{background-color:rgba(255, 255, 255, .8);border-radius: 10px;margin-top: -7px;margin-bottom: -7px;}
+.home-content .container{margin-top: -7px;margin-bottom: -7px;}
+.home-content .content{display: table;background-color:rgba(255, 255, 255, .8);border-radius: 10px;}
 .home-content .news_images{width:28%;float: left;}
 .home-content .news{width: 72%;float:left;}
 .border-right{border-right:1px solid #41ad49;}
@@ -202,6 +203,6 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .paging ul{float: right;position: relative;}
 .paging .pre{padding-right: 15px;}
 .paging .next{padding-left: 15px;}
-.paging ul li{list-style: none;float:left;width:15px;display: inline;}
+.paging ul li{list-style: none;width:15px;display: inline-block;}
 .paging ul li a{font-style: italic;color: #000;font-family: 'UTMAvo';font-size: 11px;}
 .paging ul li.current{font-weight: bold;font-style: italic;font-family: 'UTMAvo';font-size: 11px;}
