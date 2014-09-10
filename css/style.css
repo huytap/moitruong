@@ -176,6 +176,8 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .content-right .thumbnail{margin: 0 20px 0 20px;}
 .content-left h2{color:#9fc150;font-family: 'UTMAvoBold';font-size: 16px;margin: 3px 0 15px 0;}
 .content-left h3{color:#000;font-family: 'UTMAvoBold';font-size: 12px;margin: 10px 0 5px 0;}
+.content-left .company-image{width: 100%;}
+.content .line{position: absolute;height: 100%;border-right: 1px solid #000;}
 .home-content p{line-height: 20px;font-family: 'UTMAvo';font-size: 12px;font-style: normal;}
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
