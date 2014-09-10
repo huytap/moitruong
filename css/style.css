@@ -166,6 +166,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
 .home-content .content{display: table;background-color:rgba(255, 255, 255, .8);border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;}
+.home-content .home{border-radius: 10px!important;}
 .home-content .news_images{width:28%;float: left;}
 .home-content .news{width: 72%;float:left;}
 .border-right{border-right:1px solid #41ad49;}
