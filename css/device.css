@@ -131,9 +131,9 @@ p + hr {
     margin:25px 0 20px 0;
 }
 .col_1_2 {
-    width:480px;
+    width:497px;
     float:left;
-    margin:0 20px 0 0;
+    margin:0 4px 10px 0;
 }
 .col_2_3 {
     width:600px;
