@@ -177,8 +177,8 @@ border-bottom-right-radius: 10px;}
 .home-content .content-right a{text-align: center;}
 .home-content .content-right h3{margin-top: -15px;color:#9fc150;font-family: 'Arial';font-size: 16px;}
 .home-content .content-right .thumbnail{margin: 0 20px 0 20px;}
-.content-left h2{color:#9fc150;font-family: 'Arial';font-size: 16px;margin: 3px 0 15px 0;}
-.content-left h3{color:#000;font-family: 'Arial';font-size: 12px;margin: 10px 0 5px 0;}
+.content-left h2{color:#9fc150;font-family: 'Arial';font-size: 16px;margin: 3px 0 15px 0;font-weight: bold;}
+.content-left h3{color:#000;font-family: 'Arial';font-size: 12px;margin: 10px 0 5px 0;font-weight: bold;}
 .content-left .company-image{width: 100%;}
 .content .line{position: absolute;height: 100%;border-right: 1px solid #000;}
 .home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;}
@@ -190,7 +190,7 @@ border-bottom-right-radius: 10px;}
 .content-left a{text-align: right;color:#41ad49;}
 .content .left{border-right: 1px solid #696969;}
 .content .right{padding:0 15px;}
-.content-left .link{text-align: right;}
+.content-left .link{text-align: right;font-style: italic;}
 .footer{background:#337b2c url(images/footer-bg.png) no-repeat;padding-top: 20px;height: 215px;}
 .footer h3{font-size: 15px;color:#fff;font-family: 'Arial';margin: 0;padding-bottom:15px;text-transform: uppercase;font-weight: bold;}
 .footer h4{font-size: 11px;color: #fff;font-family: 'Arial';margin: 0;padding-bottom: 4px;font-weight: bold;}
