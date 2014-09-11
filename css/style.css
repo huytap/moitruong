@@ -230,5 +230,5 @@ font-family: 'UTMAvoBold'}
 font-family: 'UTMAvo';
 font-size: 12px;
 font-style: normal;}
-.home-content table tr td:first-child{width: 80px;}
+.home-content table tr td:first-child{padding-right: 10px}
 .home-content table tr td{vertical-align: top;}
