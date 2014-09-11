@@ -226,3 +226,9 @@ font-family: 'UTMAvoBold'}
 .paging ul li a{font-style: italic;color: #000;font-family: 'UTMAvo';font-size: 11px;}
 .paging ul li.current{font-weight: bold;font-style: italic;font-family: 'UTMAvo';font-size: 11px;}
 .footer_bg{background: #79a51e;}
+.home-content table{line-height: 20px;
+font-family: 'UTMAvo';
+font-size: 12px;
+font-style: normal;}
+.home-content table tr td:first-child{width: 80px;}
+.home-content table tr td{vertical-align: top;}
