@@ -181,8 +181,7 @@ border-bottom-right-radius: 10px;}
 .content-left h3{color:#000;font-family: 'Arial';font-size: 12px;margin: 10px 0 5px 0;font-weight: bold;}
 .content-left .company-image{width: 100%;}
 .content .line{position: absolute;height: 100%;border-right: 1px solid #000;}
-.home-content p:first-child{padding-top:0;}
-.home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;padding-top: 10px;}
+.home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;}
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
 .home-content .contact{font-size: 12px;font-family: 'Arial';}
@@ -231,7 +230,7 @@ font-family: 'Arial'}
 .home-content table{line-height: 20px;
 font-family: 'Arial';
 font-size: 12px;
-font-style: normal;}
+font-style: normal;margin-bottom: 10px;}
 .home-content table tr{padding-top: 10px;display: block;}
 .home-content table tr:first-child{padding:0;}
 .home-content table tr td:first-child{padding-right: 10px}
