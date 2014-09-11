@@ -7,7 +7,7 @@ ul {
 a,a:link, a:visited, a:hover, a:active, a:focus {
 	text-decoration: none;
 	outline: none;
-	font-family: "Arial,sans-serif";
+	font-family: "Arial";
 	color: #000;
 	font-size:12px;
 }
@@ -110,7 +110,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
     color: #41ad49;
     font-size: 11px;
     background: #FFF;
-    font-family: 'Arial,sans-serif';
+    font-family: 'Arial';
 
 }
 .logo {
@@ -161,7 +161,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	transition: all 0.35s ease;
 	padding-left: 20px;
 	text-transform: uppercase;
-	font-family: 'Arial,sans-serifItalic';
+	font-family: 'ArialItalic';
 	font-style: italic;
 }
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
@@ -181,12 +181,12 @@ border-bottom-right-radius: 10px;}
 .content-left h3{color:#000;font-family: 'Arial';font-size: 12px;margin: 10px 0 5px 0;}
 .content-left .company-image{width: 100%;}
 .content .line{position: absolute;height: 100%;border-right: 1px solid #000;}
-.home-content p{line-height: 20px;font-family: 'Arial,sans-serif';font-size: 12px;font-style: normal;}
+.home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;}
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
-.home-content .contact{font-size: 12px;font-family: 'Arial,sans-serif';}
+.home-content .contact{font-size: 12px;font-family: 'Arial';}
 .home-content .contact h3{font-size: 12px;color:#000;font-family: 'Arial';margin: 0;padding: 0;}
-.content-left .news p{line-height: 16px;font-family: 'Arial,sans-serifItalic';font-size: 12px;font-style: italic;}
+.content-left .news p{line-height: 16px;font-family: 'ArialItalic';font-size: 12px;font-style: italic;}
 .content-left a{text-align: right;color:#41ad49;}
 .content .left{border-right: 1px solid #696969;}
 .content .right{padding:0 15px;}
@@ -198,11 +198,11 @@ border-bottom-right-radius: 10px;}
 .footer .col{width: 284px;float: left;}
 .footer .col:last-child{padding-left: 30px;border-left: 1px solid #266a04;border-right: 1px solid #266a04;}
 .footer .last{border: none;}
-.footer p{font-family: 'Arial,sans-serif';font-size: 9px;color: #fff;line-height: 16px;margin: 0;}
+.footer p{font-family: 'Arial';font-size: 9px;color: #fff;line-height: 16px;margin: 0;}
 .footer .email{width: 180px;height: 20px;background: url(images/email_bg.png) no-repeat;}
 .footer .text{width:75px;height: 20px;background: url(images/name-bg.png) no-repeat;}
 .footer .text_area{width: 259px;height:70px;background: url(images/area-bg.png) no-repeat;}
-.footer .email, .footer .text, .footer .text_area{margin-bottom: 4px;font-size: 10px;font-family: 'Arial,sans-serif';
+.footer .email, .footer .text, .footer .text_area{margin-bottom: 4px;font-size: 10px;font-family: 'Arial';
 /*border-left: 1px solid #e8e8e8;
 border-top: 1px solid #e8e8e8;*/
 padding: 5px;border:0;
@@ -215,7 +215,7 @@ border: none;
 font-size: 11px;
 color: #fff;
 font-family: 'Arial'}
-.footer_bg .col_1_2{color:#fff;font-family: 'Arial,sans-serif';font-size: 12px;}
+.footer_bg .col_1_2{color:#fff;font-family: 'Arial';font-size: 12px;}
 .footer_bg .copyright{padding: 5px 0 0 35px;text-align: left;}
 .footer_bg .designby{padding: 5px 35px 0 0;text-align: right;}
 .footer_bg .container{border:0;}
@@ -224,11 +224,11 @@ font-family: 'Arial'}
 .paging .pre{padding-right: 15px;}
 .paging .next{padding-left: 15px;}
 .paging ul li{list-style: none;width:15px;display: inline-block;}
-.paging ul li a{font-style: italic;color: #000;font-family: 'Arial,sans-serif';font-size: 11px;}
-.paging ul li.current{font-weight: bold;font-style: italic;font-family: 'Arial,sans-serif';font-size: 11px;}
+.paging ul li a{font-style: italic;color: #000;font-family: 'Arial';font-size: 11px;}
+.paging ul li.current{font-weight: bold;font-style: italic;font-family: 'Arial';font-size: 11px;}
 .footer_bg{background: #79a51e;}
 .home-content table{line-height: 20px;
-font-family: 'Arial,sans-serif';
+font-family: 'Arial';
 font-size: 12px;
 font-style: normal;}
 .home-content table tr td:first-child{padding-right: 10px}
