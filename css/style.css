@@ -161,7 +161,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	transition: all 0.35s ease;
 	padding-left: 20px;
 	text-transform: uppercase;
-	font-family: 'ArialItalic';
+	font-family: 'Arial';
 	font-style: italic;
 }
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
@@ -186,23 +186,23 @@ border-bottom-right-radius: 10px;}
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
 .home-content .contact{font-size: 12px;font-family: 'Arial';}
 .home-content .contact h3{font-size: 12px;color:#000;font-family: 'Arial';margin: 0;padding: 0;}
-.content-left .news p{line-height: 16px;font-family: 'ArialItalic';font-size: 12px;font-style: italic;}
+.content-left .news p{line-height: 16px;font-family: 'Arial';font-size: 12px;font-style: italic;}
 .content-left a{text-align: right;color:#41ad49;}
 .content .left{border-right: 1px solid #696969;}
 .content .right{padding:0 15px;}
 .content-left .link{text-align: right;}
 .footer{background:#337b2c url(images/footer-bg.png) no-repeat;padding-top: 20px;height: 215px;}
-.footer h3{font-size: 15px;color:#fff;font-family: 'Arial';margin: 0;padding-bottom:15px;text-transform: uppercase;}
-.footer h4{font-size: 9px;color: #fff;font-family: 'Arial';margin: 0;padding-bottom: 4px;}
+.footer h3{font-size: 15px;color:#fff;font-family: 'Arial';margin: 0;padding-bottom:15px;text-transform: uppercase;font-weight: bold;}
+.footer h4{font-size: 11px;color: #fff;font-family: 'Arial';margin: 0;padding-bottom: 4px;font-weight: bold;}
 .footer .col_1_3,.footer .col_2_3{padding-left: 30px;height: 150px;}
 .footer .col{width: 284px;float: left;}
 .footer .col:last-child{padding-left: 30px;border-left: 1px solid #266a04;border-right: 1px solid #266a04;}
 .footer .last{border: none;}
-.footer p{font-family: 'Arial';font-size: 9px;color: #fff;line-height: 16px;margin: 0;}
+.footer p{padding: 3px 0;font-family: 'Arial';font-size: 11px;color: #fff;line-height: 16px;margin: 0;}
 .footer .email{width: 180px;height: 20px;background: url(images/email_bg.png) no-repeat;}
 .footer .text{width:75px;height: 20px;background: url(images/name-bg.png) no-repeat;}
 .footer .text_area{width: 259px;height:70px;background: url(images/area-bg.png) no-repeat;}
-.footer .email, .footer .text, .footer .text_area{margin-bottom: 4px;font-size: 10px;font-family: 'Arial';
+.footer .email, .footer .text, .footer .text_area{margin-bottom: 4px;font-size: 11px;font-family: 'Arial';
 /*border-left: 1px solid #e8e8e8;
 border-top: 1px solid #e8e8e8;*/
 padding: 5px;border:0;
