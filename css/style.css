@@ -164,8 +164,11 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	font-family: 'Arial';
 	font-style: italic;
 }
+.home-content strong{font-size: 13px;}
+.home-content .service:first-child{border:0;}
+.home-content .service{border-top: 1px solid #266a04;}
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
-.home-content .row{padding: 0 0 0 20px;}
+.home-content .row{padding: 10px 0 10px 20px;}
 .home-content .content{display: table;background-color:rgba(255, 255, 255, .8);border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;}
 .home-content .home{border-radius: 10px!important;}
