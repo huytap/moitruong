@@ -165,6 +165,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	font-style: italic;
 }
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
+.home-content .row{padding: 0 0 0 20px;}
 .home-content .content{display: table;background-color:rgba(255, 255, 255, .8);border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;}
 .home-content .home{border-radius: 10px!important;}
