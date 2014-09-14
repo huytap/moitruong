@@ -209,6 +209,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	color: #fff!important;
 	width: 100%;
 	margin-bottom: 22px!important;
+	text-transform: uppercase;
 }
 .home-content .contact p.first{padding-top: 0;}
 .home-content .contact p{
