@@ -209,6 +209,7 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	width: 100%;
 	margin-bottom: 22px!important;
 	text-transform: uppercase;
+	padding-left: 75px!important;
 }
 .home-content .contact p.first{padding-top: 0;}
 .home-content .contact p{
@@ -221,7 +222,6 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	margin: 3px 0 15px 0;
 	font-weight: bold;
 	text-transform: uppercase;
-	margin: 30px 0 10px;
 }
 .contact p.line{
     background:url(images/contact-line.png);
