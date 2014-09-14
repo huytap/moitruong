@@ -169,8 +169,14 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .service{border-top: 1px solid #696969;}
 .home-content .container{margin-top: -7px;margin-bottom: -7px;}
 .home-content .row{margin: 10px 0 10px 20px;padding: 10px 0 0;}
-.home-content .content{display: table;background-color:rgba(255, 255, 255, .8);border-bottom-left-radius: 10px;
-border-bottom-right-radius: 10px;}
+.home-content .content{
+	display: block;
+	background-color:rgba(255, 255, 255, .8);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	width: 100%;
+	float: left;
+}
 .home-content .home{border-radius: 10px!important;}
 .home-content .news_images{width:28%;float: left;}
 .home-content .news{width: 72%;float:left;}
@@ -188,7 +194,15 @@ border-bottom-right-radius: 10px;}
 .home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;}
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
-.home-content .contact{font-size: 12px;font-family: 'Arial';}
+.home-content .contact{
+	font-size: 12px;font-family: 'Arial';
+	background: url('images/contact.png') no-repeat;
+	height: 390px;
+	padding-top: 70px;
+	padding-left: 40px;
+	color: #fff;
+}
+.home-content .contact a{color: #fff;text-decoration: underline;}
 .home-content .contact h3{font-size: 12px;color:#000;font-family: 'Arial';margin: 0;padding: 0;}
 .content-left .news p{line-height: 16px;font-family: 'Arial';font-size: 12px;font-style: italic;}
 .content-left a{text-align: right;color:#41ad49;}
