@@ -193,7 +193,8 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .content .line{position: absolute;height: 100%;border-right: 1px solid #000;}
 .home-content p{line-height: 20px;font-family: 'Arial';font-size: 12px;font-style: normal;}
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
-.home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
+.home-content .google-map{
+	margin-top: 30px;margin-bottom: 20px;}
 .home-content .contact{
 	font-size: 12px;font-family: 'Arial';
 	background: url('images/contact.png') no-repeat;
