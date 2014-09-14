@@ -196,10 +196,9 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .google-map{margin-top: 30px;margin-bottom: 20px;}
 .home-content .contact{
 	font-size: 12px;font-family: 'Arial';
-	background: url('images/contact.png') top center no-repeat;
+	background: url('images/contact.png') no-repeat;
 	height: 258px;	
 	color: #fff;
-	padding: 0 55px;
 }
 
 .home-content .contact h3{
