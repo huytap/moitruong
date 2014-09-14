@@ -214,13 +214,14 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .contact p{
 	padding: 5px 0 5px 10px;
 	line-height: 20px;}
-.home-content .services h3{color: #9fc150;
-font-family: 'Arial';
-font-size: 16px;
-margin: 3px 0 15px 0;
-font-weight: bold;
-text-transform: uppercase;
-margin: 30px 0 10px;
+.home-content .services h3{
+	color: #9fc150;
+	font-family: 'Arial';
+	font-size: 16px;
+	margin: 3px 0 15px 0;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 0 10px;
 }
 .contact p.line{
     background:url(images/contact-line.png);
