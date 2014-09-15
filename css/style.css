@@ -185,7 +185,6 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .content-right{float:left;width:35%;margin: 25px 0 0;}
 .home-content .content-right img{margin: 0;}
 .home-content .content-right a{text-align: center;}
-.home-content .content-right h3{margin-top: -15px;color:#9fc150;font-family: 'Arial';font-size: 16px;}
 .home-content .content-right .thumbnail{margin: 0 20px 0 20px;}
 .content-left h2{
 	text-transform: uppercase;
@@ -197,14 +196,14 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content p .view_more{color: #000;font-size: 12px;text-decoration: underline;}
 .home-content .google-map{
 	margin-top: 30px;margin-bottom: 20px;}
-.home-content .contact{
+.home-content .contact .sub{
 	font-size: 12px;font-family: 'Arial';
 	background: url('images/contact.png') no-repeat;
 	height: 258px;	
 	color: #fff;
 }
 
-.home-content .contact h3{
+.home-content .contact .sub h3{
 	padding-top: 12px!important;
 	font-size: 15px!important;
 	color: #fff!important;
@@ -217,10 +216,10 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 .home-content .contact p{
 	padding: 5px 0 5px 10px;
 	line-height: 20px;}
-.home-content .services h3{
+.home-content .services h3,.home-content .content-right .contact h3{
 	color: #9fc150;
 	font-family: 'Arial';
-	font-size: 16px;
+	font-size: 15px;
 	margin: 3px 0 15px 0;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -233,7 +232,6 @@ a,a:link, a:visited, a:hover, a:active, a:focus {
 	border: 0;
 }
 .home-content .contact a{color: #fff;text-decoration: underline;}
-.home-content .contact h3{font-size: 12px;color:#000;font-family: 'Arial';margin: 0;padding: 0;}
 .content-left .news p{line-height: 16px;font-family: 'Arial';font-size: 12px;font-style: italic;}
 .content-left a{text-align: right;color:#41ad49;}
 .content .left{border-right: 1px solid #696969;}
