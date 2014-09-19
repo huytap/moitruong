@@ -345,3 +345,36 @@ font-style: normal;margin-bottom: 10px;}
 .dev7-caroufredsel-next,
 .dev7-caroufredsel-pag { margin: 10px 0; }
 
+.control-group{display: inline-block;width: 100%;padding:10px 20px;font-size: 12px;font-family: 'Arial'}
+.control-group label
+{
+	float: left;width: 15%;font-size: 12px;font-weight: normal;
+	font-family: 'Arial'
+}
+.control-group .text{width: 85%; float: left;}
+.control-group .text input[type="text"], .control-group .text input[type="email"],.control-group .text textarea{
+	width: 65%;
+	font-size: 12px;
+	font-family: 'Arial';
+	background: -moz-linear-gradient( top,  #e8e8e8 0%,  #c7c7c7 100%);
+    background: -webkit-gradient( linear, left top, left bottom,  from(#e8e8e8),  to(#c7c7c7));
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding:2px 10px;
+    border:0;
+}
+.btn-contact{width: 100%;text-align: center;}
+.btn-contact input[type="submit"]{
+	text-align: center;
+	
+	margin-right: 40px;
+	background: url(images/btn_submit.png) no-repeat;
+	background: url(images/btn_submit.png) no-repeat;
+	width: 50px;
+	height: 19px;
+	border: none;
+	font-size: 11px;
+	color: #fff;
+	font-family: 'Arial';
+}
