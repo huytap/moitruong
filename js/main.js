@@ -1,5 +1,9 @@
 $(window).load(function () {
-    $('.flexslider').flexslider({ directionNav: false });
+    $('.flexslider').flexslider({ 
+    	slideshowSpeed: 2000,
+        animationSpeed: 600,
+        directionNav: false 
+    });
     $('#galleryView').click(function(){
     	$('#box').show();
     	gallery();
