@@ -1,7 +1,7 @@
 $(window).load(function () {
     $('.flexslider').flexslider({ 
     	slideshowSpeed: 3000,
-        animationSpeed: 600,
+        animationSpeed: 1000,
         directionNav: false 
     });
     $('#galleryView').click(function(){
